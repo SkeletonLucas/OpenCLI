@@ -1,0 +1,18 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# OpenCLI persistent user data & config
+opencli.db
+history
+config.json
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+*.swp
